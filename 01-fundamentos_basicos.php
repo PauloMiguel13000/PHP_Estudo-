@@ -8,7 +8,7 @@
 </head>
 <body>
     <?php 
-    echo "cuuuuuuuuuuu <br>";
+    echo "cow <br>";
     print "23";
     ?>
 </body>
